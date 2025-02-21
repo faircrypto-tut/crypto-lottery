@@ -34,7 +34,7 @@ Enter as many times as you like to increase your odds!
 3. Generate a random number weighted by the total ETH pool.
 4. Select the winner based on the weighted random draw.
 5. Transfer **50% of the pool** to the winner.
-6. Transfer **5% of the pool** to people promoting the lottery.
+6. Transfer **20% of the pool** to people promoting the lottery.
 7. Retain the remaining for the next draw.
 8. Announce the winner and restart the lottery for the next week.
 
