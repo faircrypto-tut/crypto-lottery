@@ -9,7 +9,7 @@ Are you ready to test your luck and multiply your Ethereum? Join the **Crypto Lo
 ## 🔥 How It Works
 - Send ETH to the lottery wallet: **0x4dbFe473E0F69B755FBd50b0185C9f2aea72547F**
 - Your chances of winning are directly proportional to the amount you transfer! The more ETH you send, the higher your odds!
-- Weekly draw every **Sunday at 10 PM UTC** (first draw starts when at least **1 ETH** is in the pool)
+- Weekly draw every **Sunday at 10 PM UTC** (draw starts when at least **1 ETH** is in the pool, if not it awaits next week)
 - **Winner gets 50%** of the total ETH pool
 - Promote us! **20% of the pool** is divided between the influencers who send the proff of promoting the lottery
   -  Send lottery promotion proof to email: `faircrypto@tuta.io` with title `Promoting crypto lottery, got XYZ followers` (replace XYZ with your follower count and provide link)
