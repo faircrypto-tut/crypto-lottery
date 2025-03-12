@@ -4,14 +4,14 @@
 - **Lottery Wallet Address:** 0x4dbFe473E0F69B755FBd50b0185C9f2aea72547F
 - **View on Etherscan:** [Etherscan Link](https://etherscan.io/address/0x4dbFe473E0F69B755FBd50b0185C9f2aea72547F)
 
-Are you ready to test your luck and multiply your Ethereum? Join the **Crypto Lottery**, where your chances of winning grow with every ETH you contribute!
+Are you ready to test your luck and multiply your crypto? Join the **Crypto Lottery**, where your chances of winning grow with every coin you contribute!
 
 ## 🔥 How It Works
-- Send ETH to the lottery wallet: **0x4dbFe473E0F69B755FBd50b0185C9f2aea72547F**
-- Your chances of winning are directly proportional to the amount you transfer! The more ETH you send, the higher your odds!
-- Weekly draw every **Sunday at 10 PM UTC** (draw starts when at least **1 ETH** is in the pool, if not it awaits next week)
-- **Winner gets 50%** of the total ETH pool
-- Promote us! **20% of the pool** is divided between the influencers who send the proff of promoting the lottery
+- Send **ETH/BTC/USDT/USDC/SOL/BNB/XRP** to the lottery wallet: **0x4dbFe473E0F69B755FBd50b0185C9f2aea72547F**
+- Your chances of winning are directly proportional to the amount you transfer! The more coins you send, the higher your odds!
+- Weekly draw every **Sunday at 10 PM UTC** (draw starts when at least equivalent of **2000 USDT** is in the pool, if not it awaits next week)
+- **Winner gets 50%** of the total pool (deducting coin transformation fees)
+- Promote us! **10% of the pool** is divided between the influencers who send the proff of promoting the lottery (guaranteed till 06.06.2025 untill lotery takes off)
   -  Send lottery promotion proof to email: `faircrypto@tuta.io` with title `Promoting crypto lottery, got XYZ followers` (replace XYZ with your follower count and provide link)
 - The remaining amount **rolls over to boost the next draw’s** prize pool!
 
@@ -29,12 +29,11 @@ The rollover system means jackpots keep growing!
 Enter as many times as you like to increase your odds!
 
 ## 🛠 Lottery Algorithm
-1. Collect all ETH transfers made to the lottery wallet.
-2. Assign each participant entries proportional to the ETH they sent.
-3. Generate a random number weighted by the total ETH pool.
+1. Collect all transfers made to the lottery wallet.
+2. Assign each participant entries proportional to the computed value in USDT they sent.
 4. Select the winner based on the weighted random draw.
 5. Transfer **50% of the pool** to the winner.
-6. Transfer **20% of the pool** to people promoting the lottery.
+6. Transfer **10% of the pool** to people promoting the lottery.
 7. Retain the remaining for the next draw.
 8. Announce the winner and restart the lottery for the next week.
 
